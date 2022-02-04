@@ -1,3 +1,3 @@
-# C102_TeacherReferenceCode
+# C102_Código de referencia de la maestra
 
-Python code to move images files from Downloads folder to a new folder.
+Código Python para mover archivos tipo imagen de la carpeta Descargas a una nueva carpeta.
